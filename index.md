@@ -3,7 +3,7 @@ title: Resilience Brain Laboratory
 layout: default
 ---
 
-[Home](/) | [Google Scholar](/google-scholar.html)
+[Home]({{ site.baseurl }}/) | [Google Scholar]({{ site.baseurl }}/google-scholar.html)
 
 # Resilience Brain Laboratory
 
