@@ -1,3 +1,10 @@
+---
+title: Resilience Brain Laboratory
+layout: default
+---
+
+[Home](/) | [Google Scholar](/google-scholar.html)
+
 # Resilience Brain Laboratory
 
 Welcome to the Resilience Brain Lab at [Johns Hopkins University School of Medicine].
